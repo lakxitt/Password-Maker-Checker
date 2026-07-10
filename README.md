@@ -4,6 +4,9 @@ A secure password generator and strength checker with real-time validation and e
 
 A simple and secure web application to **generate strong passwords** and **check their strength** in real time.
 
+## 🌐 Live Demo
+👉 https://musical-kataifi-4d0030.netlify.app/
+
 ## ✨ Features
 
 - 🔑 Random password generator
